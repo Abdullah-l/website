@@ -29,6 +29,11 @@ hidemeta = false
 hideSummary = false
 ShowShareButtons = false
 
+[params.assets]
+favicon = "favicon.png"
+favicon16x16 = "favicon.png"
+favicon32x32 = "favicon.png"
+
 [params.homeInfoParams]
 Title = "Hello 👋"
 Content = """
