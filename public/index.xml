@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to My Site on Abdullah Almanie</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to My Site on Abdullah Almanie</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;abdullah-almanie&#34;&gt;Abdullah Almanie&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m a Senior Software Engineer based in Riyadh, Saudi Arabia, with extensive experience in building scalable web applications and distributed systems.&lt;/p&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;h3 id=&#34;senior-software-engineer-at-moyasar&#34;&gt;Senior Software Engineer at Moyasar&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;May 2024 - Present&lt;/em&gt;&lt;br&gt;
+Riyadh, Saudi Arabia&lt;/p&gt;
+&lt;h3 id=&#34;senior-software-engineer-at-mrsool&#34;&gt;Senior Software Engineer at Mrsool&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Jan 2022 - May 2024&lt;/em&gt;&lt;br&gt;
+Riyadh, Saudi Arabia&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frontend-technologies&#34;&gt;Frontend Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Turbo Rails&lt;/li&gt;
+&lt;li&gt;Tailwind CSS&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;backend-technologies&#34;&gt;Backend Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;GraphQL&lt;/li&gt;
+&lt;li&gt;gRPC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;databases&#34;&gt;Databases&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;Elasticsearch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;devops--infrastructure&#34;&gt;DevOps &amp;amp; Infrastructure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;methodologies&#34;&gt;Methodologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Agile/Scrum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
+&lt;h3 id=&#34;wheel&#34;&gt;Wheel&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Feb 2025 - Present&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;wheel&#34;&gt;Wheel&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Feature Flag and Config Management System&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A robust configuration management system built with modern web technologies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Database storage with in-memory caching&lt;/li&gt;
+&lt;li&gt;Modern UI for configuration management&lt;/li&gt;
+&lt;li&gt;Easy integration with existing systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Abdullah-l/wheel&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;More projects coming soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

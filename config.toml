@@ -1,0 +1,66 @@
+baseURL = "http://localhost:1313/"
+title = "Abdullah Almanie"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Abdullah Almanie"
+description = "Senior Software Engineer | Ruby | Python | JavaScript | Go"
+keywords = ["Blog", "Portfolio", "Developer"]
+author = "Abdullah Almanie"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+
+  [params.homeInfoParams]
+    Title = "Hey there 👋"
+    Content = """
+I'm Abdullah, a Software Engineer with expertise in Ruby, Python, JavaScript, and Go.
+I currently work at [Moyasar](https://moyasar.com) - the greatest payment gateway in the region.
+
+In my free time, I enjoy traveling and hiking.
+
+Ruby is my favorite programming language, and hopefully the name of my first daughter.
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Abdullah-l"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/Abdullah-Almanie"
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/iTechSA"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:abdullah@almanie.dev"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 30
