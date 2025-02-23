@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Welcome to My Site on Abdullah Almanie</title>
+    <title>Abdullah Almanie</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to My Site on Abdullah Almanie</description>
+    <description>Recent content on Abdullah Almanie</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;abdullah-almanie&#34;&gt;Abdullah Almanie&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m a Senior Software Engineer based in Riyadh, Saudi Arabia, with extensive experience in building scalable web applications and distributed systems.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a Senior Software Engineer based in Riyadh, Saudi Arabia, with extensive experience in building scalable web applications and distributed systems.&lt;/p&gt;
 &lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
 &lt;h3 id=&#34;senior-software-engineer-at-moyasar&#34;&gt;Senior Software Engineer at Moyasar&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;May 2024 - Present&lt;/em&gt;&lt;br&gt;
@@ -81,6 +80,13 @@ Riyadh, Saudi Arabia&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Abdullah-l/wheel&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;More projects coming soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ruby is the future ❤️</title>
+      <link>http://localhost:1313/posts/ruby-love/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ruby-love/</guid>
+      <description>Welcome to my blog!</description>
     </item>
   </channel>
 </rss>

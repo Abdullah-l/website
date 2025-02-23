@@ -4,8 +4,6 @@ date: 2025-02-23
 draft: false
 ---
 
-# Abdullah Almanie
-
 I'm a Senior Software Engineer based in Riyadh, Saudi Arabia, with extensive experience in building scalable web applications and distributed systems.
 
 ## Experience
